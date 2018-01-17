@@ -4,3 +4,4 @@ bagOLoot.Tests/bin
 bagOLoot.Tests/obj
 *.db
 *.sqlite3
+.vscode
