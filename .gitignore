@@ -1,0 +1,6 @@
+bagOLoot/bin
+bagOLoot/obj
+bagOLoot.Tests/bin
+bagOLoot.Tests/obj
+*.db
+*.sqlite3
